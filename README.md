@@ -1,4 +1,4 @@
-# Crop Yield Prediction and Agricultural Advisory System
+# HealSync - Crop Yield Prediction and Agricultural Advisory System
 
 ## Project Overview
 
