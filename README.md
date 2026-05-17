@@ -5,7 +5,6 @@ https://github.com/user-attachments/assets/90743629-edae-4e6d-8a7c-147da1cb6af6
 # HealSync - Crop Yield Prediction and Agricultural Advisory System
 
 
-Uploading hs_working.mp4…
 
 
 ## Project Overview
