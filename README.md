@@ -1,5 +1,9 @@
 # HealSync - Crop Yield Prediction and Agricultural Advisory System
 
+
+Uploading hs_working.mp4…
+
+
 ## Project Overview
 
 This project implements an Agricultural Prediction System using Flask, machine learning models, and rule-based systems to provide valuable insights for farmers. It offers functionalities for crop yield prediction, disease risk assessment, fertilizer recommendation, and weather pattern analysis. The system is designed to aid in informed decision-making to optimize agricultural practices and improve productivity.
